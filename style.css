@@ -1,0 +1,38 @@
+.far.fa-heart{
+    font-size: 20px;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link{
+background-color: grey;
+}
+a{
+color: grey;
+}
+a:hover {
+color: grey;
+}
+.btn-primary{
+    background-color: green;
+    border-color: green;
+}
+.btn-primary:hover{
+    background-color: rgb(0, 83, 0);
+}
+.icon-box {
+    display: inline-flex;
+    justify-content: center;
+    height: 2rem;
+    width: 2rem;
+    border: 1px solid #6C757D;
+    border-radius: 0.5rem;
+    align-items: center;
+}
+.fab.fa-instagram{
+    padding: 5px;
+}
+h3 {
+    color: grey;
+    font-family: 'Arial', cursive;
+    font-style: italic;
+    font-weight: bold
+}
